@@ -39,12 +39,12 @@ To run the script you need to:
 
 ## 🚀 CONFIG
 Configure the script by updating `Settings` Tab.
-`ACCOUNT_ADDRESS` -> raydium liquidity pool address
-`PRIVATE_KEY` -> wallet private key
-`SOLANA_RPC_URL` -> solana mainnet rpc
-`QUICKNODE_RPC_URL` -> quicknode mainnet rpc
-`SOLANA_WS_URL` -> solana mainnet websocket
-`QUICKNODE_WS_URL` -> quicknode websocket rpc
+1. `ACCOUNT_ADDRESS` -> raydium liquidity pool address
+2. `PRIVATE_KEY` -> wallet private key
+3. `SOLANA_RPC_URL` -> solana mainnet rpc
+4. `QUICKNODE_RPC_URL` -> quicknode mainnet rpc
+5. `SOLANA_WS_URL` -> solana mainnet websocket
+6. `QUICKNODE_WS_URL` -> quicknode websocket rpc
   
 ## 🚀 COMMON ISSUES
 
